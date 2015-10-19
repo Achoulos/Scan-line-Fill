@@ -3,7 +3,7 @@ Scan-line-Fill
 
 Implemenation of Polygon Fill using the Scanline algorithm using OpenGL and GLUT. 
 
-![]("http://i.imgur.com/IRC2iDA.gif")
+![]("http://i.imgur.com/IRC2iDA.gifv")
 
 #Use
 
